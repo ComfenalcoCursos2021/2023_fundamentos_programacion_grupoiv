@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+1
+N
+6
+2
+4
+CONT
+1
+0
+1
+A
+1
+7
+9
+1
+6
+A <= N
+6
+2
+4
+CONT
+8
+CONT + 1
+1
+A
+5
+A + 7
+11
+4
+1
+58
+'HAY ' , CONT , ' NUMEROS DIVISIBLES POR 7 ENTRE 1 Y ' , N
+1

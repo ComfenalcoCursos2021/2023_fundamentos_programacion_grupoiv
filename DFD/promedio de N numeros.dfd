@@ -1,0 +1,86 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+I
+1
+0
+1
+A
+1
+0
+4
+CONT
+1
+0
+4
+1
+29
+'precione "1" para continuar'
+5
+1
+1
+I
+9
+1
+5
+I = 1
+5
+1
+1
+N
+9
+1
+5
+N < 0
+7
+0
+1
+5
+N < 0
+13
+4
+1
+34
+'el numero tiene que ser positivo'
+5
+1
+1
+N
+13
+11
+6
+2
+1
+A
+3
+A+N
+4
+CONT
+6
+CONT+1
+4
+1
+49
+'si quiere continuar con el promedio escriba "1"'
+5
+1
+1
+I
+11
+6
+1
+8
+PROMEDIO
+6
+A/CONT
+4
+1
+27
+'su promedio es ', promedio
+1
